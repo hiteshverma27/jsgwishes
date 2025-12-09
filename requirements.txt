@@ -1,0 +1,9 @@
+gspread
+google-auth
+python-dotenv
+pillow
+requests
+python-dateutil
+pymupdf
+pytesseract
+opencv-python-headless
